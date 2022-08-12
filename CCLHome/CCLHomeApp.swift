@@ -12,6 +12,7 @@ struct CCLHomeApp: App {
     var body: some Scene {
         WindowGroup {
             CocktailView()
+                .environmentObject(CartViewModel())
         }
     }
 }

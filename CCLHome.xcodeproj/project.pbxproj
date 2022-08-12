@@ -14,6 +14,7 @@
 		550BA6F1289C4DA300C24C14 /* CCLFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550BA6EF289C4DA300C24C14 /* CCLFont.swift */; };
 		550BA6F2289C4DA300C24C14 /* UIColor+Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550BA6F0289C4DA300C24C14 /* UIColor+Functions.swift */; };
 		550BA6F4289C4EE200C24C14 /* View+SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550BA6F3289C4EE200C24C14 /* View+SwiftUI.swift */; };
+		552BF2E428A61DF1005C2880 /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552BF2E328A61DF1005C2880 /* CartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		550BA6EF289C4DA300C24C14 /* CCLFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCLFont.swift; sourceTree = "<group>"; };
 		550BA6F0289C4DA300C24C14 /* UIColor+Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Functions.swift"; sourceTree = "<group>"; };
 		550BA6F3289C4EE200C24C14 /* View+SwiftUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+SwiftUI.swift"; sourceTree = "<group>"; };
+		552BF2E328A61DF1005C2880 /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				550BA6E1289C3F7E00C24C14 /* CCLHomeApp.swift */,
 				550BA6E3289C3F7E00C24C14 /* CocktailView.swift */,
+				552BF2E328A61DF1005C2880 /* CartView.swift */,
 				550BA6F5289C507300C24C14 /* CCL Styles */,
 				550BA6E5289C3F8100C24C14 /* Assets.xcassets */,
 				550BA6E7289C3F8100C24C14 /* Preview Content */,
@@ -156,6 +159,7 @@
 			files = (
 				550BA6F1289C4DA300C24C14 /* CCLFont.swift in Sources */,
 				550BA6F4289C4EE200C24C14 /* View+SwiftUI.swift in Sources */,
+				552BF2E428A61DF1005C2880 /* CartView.swift in Sources */,
 				550BA6E4289C3F7E00C24C14 /* CocktailView.swift in Sources */,
 				550BA6E2289C3F7E00C24C14 /* CCLHomeApp.swift in Sources */,
 				550BA6F2289C4DA300C24C14 /* UIColor+Functions.swift in Sources */,
